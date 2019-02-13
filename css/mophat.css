@@ -1,6 +1,8 @@
 body{
-  background-color: blue;
+  background-image: url("../images/download (1).jpeg");
   align-content: center;
+  text-align: center;
+
 }
 .mophat{
   color: black;
@@ -12,7 +14,14 @@ img{
   height: 70;
   align: center;
 }
-h1h2h3{
+h1{
   float: center;
-  color: blue
+  color: blue;
+  text-align: center;
+}
+#text-box {
+  border: 2px solid red;
+}
+table, th, td {
+  border: 1px solid black;
 }
