@@ -2,3 +2,22 @@ body{
   text-align: center;
   background-image: url(../images/95813581-portfolio-creative-word-over-abstract-geometric-shapes-background-illustration-.jpg);
 }
+
+h1{
+  font-size: rgba(255, 0, 0, 0.5);
+  font-style: italic;
+  font-family: cursive;
+  text-transform: capitalize;
+  text-shadow: 30px;
+
+}
+
+a{
+  text-decoration: none;
+}
+
+p{
+  font-style: oblique;
+  font-size: 22px;
+  line-height: 40px;
+}
